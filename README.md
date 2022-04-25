@@ -1,6 +1,6 @@
 # Android-Chat-App
 
-Android Chatting app with message encryption. Built with Firebase services.
+<!-- Android Chatting app with message encryption. Built with Firebase services.
 
 ### Features : 
 * Authentication (Signup/Login)
@@ -36,10 +36,10 @@ Android Chatting app with message encryption. Built with Firebase services.
     <td><img src="https://user-images.githubusercontent.com/79650580/147913120-d97079b7-4d6e-4acb-8159-76dfbcc2b744.png" alt="setting profile pic" style="width:250px;height:500px;"></td>
     <td><img src="https://user-images.githubusercontent.com/79650580/147913233-5dde946a-9fd0-432f-8f16-9fee07855cfb.jpeg" alt="messaging" style="width:250px;height:500px;"></td>
   </tr>
-   
+    
 </table>
 
 ### Full demo : 
 <div align="center">
   <a href="https://youtu.be/U-NWcV_tfd4"><img src="https://user-images.githubusercontent.com/79650580/147914116-8f3725ef-8206-47b1-8735-f562ce3088f2.png" alt="Click here to watch full demo"></a>
-</div>
+</div>-->
